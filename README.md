@@ -1,6 +1,6 @@
-# Website
+# Pixtoka Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This documentation is built using [Docusaurus](https://docusaurus.io/).
 
 ## Installation
 
