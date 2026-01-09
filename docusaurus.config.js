@@ -29,6 +29,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Pixtoka', // Usually your GitHub org/user name.
   projectName: 'Pixtoka-Docs', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
