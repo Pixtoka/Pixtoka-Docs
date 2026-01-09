@@ -80,6 +80,12 @@ const config = {
             position: 'left',
             label: 'Getting Started',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'commandsSidebar',
+            position: 'left',
+            label: 'Commands',
+          },
         ],
       },
       footer: {
@@ -90,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/getting-started',
+                to: '/category/getting-started',
               },
             ],
           },
